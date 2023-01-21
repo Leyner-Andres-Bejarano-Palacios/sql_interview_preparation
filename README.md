@@ -17,4 +17,13 @@ doing sql queries is not a problem for me, but doing it in a technical interview
     -   [Answer 1](https://leetcode.com/problems/customers-who-never-order/solutions/3079543/answer-1-subquery/).
     -   [Answer 2](https://leetcode.com/problems/customers-who-never-order/solutions/3079550/answer-2-self-join/).
 7. [Department Highest Salary](https://leetcode.com/problems/department-highest-salary/description/).
-    -   [Answer](https://leetcode.com/problems/department-highest-salary/solutions/3079566/windows-function/).    
+    -   [Answer](https://leetcode.com/problems/department-highest-salary/solutions/3079566/windows-function/).
+8. [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/).
+    -   [Answer](https://leetcode.com/problems/department-top-three-salaries/solutions/3080069/cte-and-windows-function/).
+9. [Trips and Users](https://leetcode.com/problems/trips-and-users/description/).
+    -   [Answer](https://leetcode.com/problems/trips-and-users/solutions/3080170/cte-and-joins/).
+10. [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/description/).
+    -   [Answer](https://leetcode.com/problems/find-customer-referee/solutions/3080193/simple-solution/).
+11. [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/description/).
+    -   [Answe](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/solutions/3080212/cte-and-group-by/).
+
