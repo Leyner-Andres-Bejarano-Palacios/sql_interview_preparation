@@ -26,4 +26,19 @@ doing sql queries is not a problem for me, but doing it in a technical interview
     -   [Answer](https://leetcode.com/problems/find-customer-referee/solutions/3080193/simple-solution/).
 11. [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/description/).
     -   [Answe](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/solutions/3080212/cte-and-group-by/).
-
+12. [Big Countries](https://leetcode.com/problems/big-countries/).
+    -   [Answer](https://leetcode.com/problems/big-countries/solutions/3080223/simple-solution/).
+13. [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/).
+    -   [Answer](https://leetcode.com/problems/classes-more-than-5-students/solutions/3080299/aggregating-filtering-with-having/).
+14. [Sales Person](https://leetcode.com/problems/sales-person/description/).
+    -   [Answer](https://leetcode.com/problems/sales-person/solutions/3080332/right-joining-the-excluding-rows/).
+15. [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/).
+    -   [Answer](https://leetcode.com/problems/not-boring-movies/solutions/3083757/finding-odds-and-even-numbers/).
+16. [Exchange Seats](https://leetcode.com/problems/exchange-seats/).
+    -   [Answer](https://leetcode.com/problems/exchange-seats/solutions/3083988/using-cte/).
+17. [Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/).
+    -   [Answer](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/solutions/3084128/group-by-having/).
+18. [Sales Analysis III](https://leetcode.com/problems/sales-analysis-iii/).
+    -   [Answer](https://leetcode.com/problems/sales-analysis-iii/solutions/3084225/join-group-by-having/).
+19. [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/).
+    -   [Answer](https://leetcode.com/problems/game-play-analysis-i/solutions/3084309/group-by-min/).
