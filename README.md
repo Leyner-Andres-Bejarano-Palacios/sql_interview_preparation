@@ -42,3 +42,9 @@ doing sql queries is not a problem for me, but doing it in a technical interview
     -   [Answer](https://leetcode.com/problems/sales-analysis-iii/solutions/3084225/join-group-by-having/).
 19. [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/).
     -   [Answer](https://leetcode.com/problems/game-play-analysis-i/solutions/3084309/group-by-min/).
+20. [User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/).
+    -   [Answer](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/solutions/3084704/grouping-by/).
+21. [Article Views I](https://leetcode.com/problems/article-views-i/).
+    -   [Answer](https://leetcode.com/problems/article-views-i/solutions/3084719/mysql/).
+22. [Market Analysis I](https://leetcode.com/problems/market-analysis-i/description/).
+    -   [Answer](https://leetcode.com/problems/market-analysis-i/solutions/3084730/left-join-group-by/)
