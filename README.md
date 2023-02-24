@@ -48,3 +48,23 @@ doing sql queries is not a problem for me, but doing it in a technical interview
     -   [Answer](https://leetcode.com/problems/article-views-i/solutions/3084719/mysql/).
 22. [Market Analysis I](https://leetcode.com/problems/market-analysis-i/description/).
     -   [Answer](https://leetcode.com/problems/market-analysis-i/solutions/3084730/left-join-group-by/)
+
+## Theorical Questions Section
+
+### Theorical Question 1
+
+Do you understand the difference between rank() y dense_rank() ?
+
+<details><summary><b>Answer</b></summary>
+
+Simply put, RANK skips the number of positions after records with the same rank number. The ranking RANK_DENSE returns position numbers from 1 to 6 because it doesn’t skip records with the same rank number:
+
+![Image](img/rankVsDenseRank.png "rankVsDenseRank")
+
+![Image](img/rankVsDenseRankResult.png "rankVsDenseRankResult")
+
+</details>
+
+<details><summary><b>Source</b></summary>
+kafka the definitive guide 1st Edition Pag 7
+</details>
